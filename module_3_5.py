@@ -10,4 +10,4 @@ def get_multiplied_digits(number):
         return first
 
 
-print(get_multiplied_digits(302151))
+print(get_multiplied_digits(302150))
